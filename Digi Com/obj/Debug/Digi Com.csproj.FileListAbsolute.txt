@@ -132,3 +132,23 @@ C:\CF2\Digi Com\obj\Debug\Digi Com.csproj.CoreCompileInputs.cache
 C:\CF2\Digi Com\obj\Debug\Digi Com.csproj.CopyComplete
 C:\CF2\Digi Com\obj\Debug\Digi Com.exe
 C:\CF2\Digi Com\obj\Debug\Digi Com.pdb
+C:\CF\MANOWAR_OD\Digi Com\bin\Debug\Digi Com.exe.config
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Interop.WMPLib.dll
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi Com.csproj.ResolveComReference.cache
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi Com.exe
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi Com.pdb
+C:\CF\MANOWAR_OD\Digi Com\bin\Debug\Digi Com.exe
+C:\CF\MANOWAR_OD\Digi Com\bin\Debug\Digi Com.pdb
+C:\CF\MANOWAR_OD\Digi Com\bin\Debug\System.Data.SQLite.dll
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi Com.csprojResolveAssemblyReference.cache
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.AppForms.frmAuth.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.AppForms.frmCaptureFingre.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.AppForms.frmDashboard.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.AppForms.frmLogin.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.AppForms.frmMakeCall.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.AppForms.frmScheduleManager.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.AppForms.frmStationManager.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.AppForms.frmTest.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.AppForms.frmUserManager.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi_Com.Properties.Resources.resources
+C:\CF\MANOWAR_OD\Digi Com\obj\Debug\Digi Com.csproj.GenerateResource.Cache
