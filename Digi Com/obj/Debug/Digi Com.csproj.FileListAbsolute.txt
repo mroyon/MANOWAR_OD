@@ -1,0 +1,134 @@
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\bin\Debug\Digi Com.exe.config
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\bin\Debug\Digi Com.exe
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\bin\Debug\Digi Com.pdb
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi Com.csproj.ResolveComReference.cache
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.AppForms.frmAuth.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.AppForms.frmCaptureFingre.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.AppForms.frmDashboard.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.frmLogin.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.AppForms.frmMakeCall.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.AppForms.frmScheduleManager.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.AppForms.frmStationManager.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.AppForms.frmTest.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.AppForms.frmUserManager.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi_Com.Properties.Resources.resources
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi Com.csproj.GenerateResource.Cache
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi Com.exe
+C:\Users\Rhythm\onedrive\documents\visual studio 2015\Projects\Digi Com\Digi Com\obj\Debug\Digi Com.pdb
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\bin\Debug\Digi Com.exe
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\bin\Debug\System.Data.SQLite.dll
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\bin\Debug\Digi Com.exe.config
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Interop.WMPLib.dll
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.csproj.ResolveComReference.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmAuth.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmCaptureFingre.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmDashboard.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.frmLogin.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmMakeCall.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmScheduleManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmStationManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmTest.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmUserManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.Properties.Resources.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.csproj.GenerateResource.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.csproj.CoreCompileInputs.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.csproj.CopyComplete
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.exe
+C:\Users\pingk\OneDrive\CO Sir Thesis\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.pdb
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\bin\Debug\Digi Com.exe.config
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\bin\Debug\Digi Com.exe
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\bin\Debug\Digi Com.pdb
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\bin\Debug\System.Data.SQLite.dll
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Interop.WMPLib.dll
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.csproj.ResolveComReference.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmAuth.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmCaptureFingre.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmDashboard.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmLogin.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmMakeCall.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmScheduleManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmStationManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmTest.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.AppForms.frmUserManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi_Com.Properties.Resources.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.csproj.GenerateResource.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.csproj.CoreCompileInputs.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.csproj.CopyComplete
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.exe
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.pdb
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\Digi Com 04 OCT 2021\Digi Com\obj\Debug\Digi Com.csprojAssemblyReference.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\bin\Debug\Digi Com.exe.config
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\bin\Debug\Digi Com.exe
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\bin\Debug\Digi Com.pdb
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\bin\Debug\System.Data.SQLite.dll
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi Com.csprojAssemblyReference.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Interop.WMPLib.dll
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi Com.csproj.ResolveComReference.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmAuth.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmCaptureFingre.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmDashboard.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmLogin.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmMakeCall.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmScheduleManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmStationManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmTest.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmUserManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi_Com.Properties.Resources.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi Com.csproj.GenerateResource.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi Com.csproj.CoreCompileInputs.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi Com.csproj.CopyComplete
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi Com.exe
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V1.0\Digi Com\obj\Debug\Digi Com.pdb
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\bin\Debug\Digi Com.exe.config
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\bin\Debug\Digi Com.exe
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\bin\Debug\Digi Com.pdb
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\bin\Debug\System.Data.SQLite.dll
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.csprojAssemblyReference.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Interop.WMPLib.dll
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.csproj.ResolveComReference.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmAuth.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmCaptureFingre.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmDashboard.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmLogin.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmMakeCall.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmScheduleManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmStationManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmTest.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.AppForms.frmUserManager.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi_Com.Properties.Resources.resources
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.csproj.GenerateResource.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.csproj.CoreCompileInputs.cache
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.csproj.CopyComplete
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.exe
+C:\Users\pingk\OneDrive\CO Sir Thesis\BUET_Thesis_RBE_For_LRWC_With_PFC_With_Device\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.pdb
+C:\Users\rezay\Downloads\kkl\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.csproj.AssemblyReference.cache
+C:\Users\rezay\Downloads\kkl\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Interop.WMPLib.dll
+C:\Users\rezay\Downloads\kkl\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.csproj.ResolveComReference.cache
+C:\Users\rezay\Downloads\kkl\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.exe
+C:\Users\rezay\Downloads\kkl\BUET_Thesis_RBE_For_LRWC_V2.0\Digi Com\obj\Debug\Digi Com.pdb
+C:\CF2\Digi Com\bin\Debug\Digi Com.exe.config
+C:\CF2\Digi Com\bin\Debug\Digi Com.exe
+C:\CF2\Digi Com\bin\Debug\Digi Com.pdb
+C:\CF2\Digi Com\bin\Debug\System.Data.SQLite.dll
+C:\CF2\Digi Com\obj\Debug\Digi Com.csproj.AssemblyReference.cache
+C:\CF2\Digi Com\obj\Debug\Interop.WMPLib.dll
+C:\CF2\Digi Com\obj\Debug\Digi Com.csproj.ResolveComReference.cache
+C:\CF2\Digi Com\obj\Debug\Digi_Com.AppForms.frmAuth.resources
+C:\CF2\Digi Com\obj\Debug\Digi_Com.AppForms.frmCaptureFingre.resources
+C:\CF2\Digi Com\obj\Debug\Digi_Com.AppForms.frmDashboard.resources
+C:\CF2\Digi Com\obj\Debug\Digi_Com.AppForms.frmLogin.resources
+C:\CF2\Digi Com\obj\Debug\Digi_Com.AppForms.frmMakeCall.resources
+C:\CF2\Digi Com\obj\Debug\Digi_Com.AppForms.frmScheduleManager.resources
+C:\CF2\Digi Com\obj\Debug\Digi_Com.AppForms.frmStationManager.resources
+C:\CF2\Digi Com\obj\Debug\Digi_Com.AppForms.frmTest.resources
+C:\CF2\Digi Com\obj\Debug\Digi_Com.AppForms.frmUserManager.resources
+C:\CF2\Digi Com\obj\Debug\Digi_Com.Properties.Resources.resources
+C:\CF2\Digi Com\obj\Debug\Digi Com.csproj.GenerateResource.cache
+C:\CF2\Digi Com\obj\Debug\Digi Com.csproj.CoreCompileInputs.cache
+C:\CF2\Digi Com\obj\Debug\Digi Com.csproj.CopyComplete
+C:\CF2\Digi Com\obj\Debug\Digi Com.exe
+C:\CF2\Digi Com\obj\Debug\Digi Com.pdb

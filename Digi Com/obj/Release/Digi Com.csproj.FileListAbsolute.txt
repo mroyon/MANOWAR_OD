@@ -1,0 +1,14 @@
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\bin\Release\Digi Com.exe.config
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\bin\Release\Digi Com.exe
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\bin\Release\Digi Com.pdb
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\bin\Release\Bunifu_UI_v1.5.3.xml
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\obj\Release\Digi_Com.AppForms.frmDashboard.resources
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\obj\Release\Digi_Com.frmLogin.resources
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\obj\Release\Digi_Com.AppForms.frmScheduleManager.resources
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\obj\Release\Digi_Com.AppForms.frmStationManager.resources
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\obj\Release\Digi_Com.AppForms.frmUserManager.resources
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\obj\Release\Digi_Com.Properties.Resources.resources
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\obj\Release\Digi Com.csproj.GenerateResource.Cache
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\obj\Release\Digi Com.exe
+C:\Users\Rhythm\OneDrive\Documents\Visual Studio 2015\Projects\Digi Com\Digi Com\obj\Release\Digi Com.pdb
